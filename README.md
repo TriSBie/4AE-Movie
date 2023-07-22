@@ -1,3 +1,7 @@
+# 4AE Movie
+Technologies in uses : ReactJS, MaterialUI, Javascript, Paypal, VietQR code integration. Provide a various movies with many categories.
+<h1>Main Repo: https://github.com/datntse150392/FER_LAB4_MOVIE.git</h1>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
